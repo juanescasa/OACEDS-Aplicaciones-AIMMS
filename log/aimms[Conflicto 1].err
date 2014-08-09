@@ -1,0 +1,41 @@
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_MAE_NOD.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_MAE_TIV.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_MAE_VEH.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_MAE_PER.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_MAE_PRO.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_MAE_COM.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_NOD_NOD1.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_NOD_PRO.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_NOD_PER.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_NOD_VEH.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_COM_VEH.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_VEH_PER.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_NOD_NOD1_TIV.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_NOD_PRO_PER.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_NOD_PRO_COM.
+Semantic error at line 103, column 1.
+The mandatory attribute "data source" is missing from DB_ESCALARES.
+Warning: The parameter "PNPP" is not initialized (default values are used).
+Warning: The parameter "PNOI" is not initialized (default values are used).
+Warning: The set "PEI" is not initialized (default values are used).
+Warning: The string parameter "TNOD" is not initialized (default values are used).
+Warning: The parameter "PNPV" is not initialized (default values are used).
+Warning: The parameter "PNOC" is not initialized (default values are used).
+Warning: The parameter "PCOV" is not initialized (default values are used).
+Warning: The parameter "PPRC" is not initialized (default values are used).
+Warning: The parameter "PCON" is not initialized (default values are used).
