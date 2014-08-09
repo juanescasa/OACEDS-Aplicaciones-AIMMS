@@ -1843,6 +1843,10 @@ MAIN MODEL MCDP
 
   ENDSECTION Libro_de_Prueba ;
 
+  SECTION Libro_Cambios_Daniel
+
+  ENDSECTION Libro_Cambios_Daniel ;
+
   PROCEDURE
     identifier :  MainInitialization
 
